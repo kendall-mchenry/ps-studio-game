@@ -1,1 +1,5 @@
-[Should contain a short description of what the gem does and how to use it.]
+A short text-based game created as a part of Pragmatic Studio's Ruby course.
+To install: gem install 202302_pragmatic_studio_game-1.0.0.gem
+To run: studio_game
+
+Finalized February 20, 2023
